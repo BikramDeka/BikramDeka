@@ -382,11 +382,11 @@ button:focus {
 .banner_area {
   position: relative;
   z-index: 1;
-  min-height: 350px;
+  min-height: 120px;
   background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
   background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
   background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  margin-bottom: 120px; }
+  margin-bottom: 20px; }
   .banner_area .box_1620 {
     background: #fff;
     min-height: 360px;
