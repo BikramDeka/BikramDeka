@@ -82,6 +82,10 @@ button:focus {
   padding-top: 120px;
   padding-bottom: 120px; }
 
+.p_1201 {
+    padding-top: 10px;
+    padding-bottom: 120px; }
+  
 .p_100 {
   padding-top: 100px;
   padding-bottom: 100px; }
@@ -381,6 +385,7 @@ button:focus {
 
 .banner_area {
   position: relative;
+  margin-bottom: 50px;
   z-index: 1;
   min-height: 120px;
   background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
@@ -1082,7 +1087,8 @@ button:focus {
 /*============== contact_area css ================*/
 .mapBox {
   height: 420px;
-  margin-bottom: 80px; }
+  width: "80%";
+  margin-bottom: 100px; }
 
 .contact_info .info_item {
   position: relative;
